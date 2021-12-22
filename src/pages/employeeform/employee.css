@@ -1,0 +1,18 @@
+.containers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+
+.NKM{
+    height: 90%;
+    border: 3px solid green;
+}
+
+.CONTAINER2{
+height: 90%;
+border: 2px solid rgb(255, 230, 0);
+padding: 30px 30px;
+}
+
